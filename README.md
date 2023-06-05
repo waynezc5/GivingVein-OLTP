@@ -1,6 +1,6 @@
 # GivingVein-OLTP
 
-This repository contains the design and T-SQL implementation of a OLTP relational database designed to manage the blood donations and donors of a fictitious non-profit organization.
+This repository contains the design and T-SQL implementation of a OLTP relational database designed to manage the blood donations, donors and lab orders of a fictitious non-profit organization.
 
 ## Database Design
 The database design is represented in the following Entity-Relationship Diagram (ERD):
